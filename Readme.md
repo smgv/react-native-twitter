@@ -15,3 +15,7 @@ Android and IOS devices for testing - [Click Here](https://expo.dev/client)
 ```
 npm run start
 ```
+
+To Create DeepLink URI
+
+npx uri-scheme open exp://192.168.0.101:8081/--/tweet/t0 --android
