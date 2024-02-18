@@ -19,3 +19,11 @@ npm run start
 To Create DeepLink URI
 
 npx uri-scheme open exp://192.168.0.101:8081/--/tweet/t0 --android
+
+To Install React Native Navigation Drawer
+
+```
+npm i @react-navigation/drawer
+
+npx expo install react-native-gesture-handler react-native-reanimated
+```
